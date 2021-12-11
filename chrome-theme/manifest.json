@@ -1,0 +1,101 @@
+{
+	"manifest_version": 3,
+	"name": "ThatDataPurple.Chrome",
+	"description": "A purple theme for Chrome.",
+	"version": "1.0",
+	"author": "That Data Person Limited (www.thatdataperson.com)",
+	"theme": {
+		"colors": {
+			"frame": [
+				64,
+				16,
+				162
+			],
+			"frame_inactive": [
+				67,
+				32,
+				204
+			],
+			"frame_incognito": [
+				32,
+				32,
+				32
+			],
+			"frame_incognito_inactive": [
+				60,
+				64,
+				67
+			],
+			"background_tab": [
+				64,
+				16,
+				162
+			],
+			"background_tab_inactive": [
+				67,
+				32,
+				204
+			],
+			"background_tab_incognito": [
+				64,
+				16,
+				162
+			],
+			"background_tab_incognito_inactive": [
+				67,
+				32,
+				204
+			],
+			"bookmark_text": [
+				255,
+				255,
+				255
+			],
+			"tab_background_text": [
+				204,
+				204,
+				204
+			],
+			"tab_background_text_inactive": [
+				204,
+				204,
+				204
+			],
+			"tab_background_text_incognito": [
+				189,
+				193,
+				198
+			],
+			"tab_background_text_incognito_inactive": [
+				167,
+				171,
+				174
+			],
+			"tab_text": [
+				255,
+				255,
+				255
+			],
+			"toolbar": [
+				67,
+				32,
+				204
+			],
+			"toolbar_button_icon": [
+				255,
+				255,
+				255
+			],
+			"omnibox_text": [
+				255,
+				255,
+				255
+			],
+			"omnibox_background": [
+				204,
+				32,
+				83
+			]
+		}
+	}
+}
