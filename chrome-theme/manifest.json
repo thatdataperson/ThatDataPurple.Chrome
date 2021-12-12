@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "ThatDataPurple.Chrome",
 	"description": "A purple theme for Chrome.",
-	"version": "1.0",
+	"version": "2021.12.1",
 	"author": "That Data Person Limited (www.thatdataperson.com)",
 	"theme": {
 		"colors": {
