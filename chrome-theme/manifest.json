@@ -1,100 +1,123 @@
 {
 	"manifest_version": 3,
 	"name": "ThatDataPurple.Chrome",
-	"description": "A purple theme for Chrome.",
-	"version": "2021.12.1",
+	"description": "A purple theme for Chrome, Edge and Brave in the That Data Person brand colours, by That Data Person Limited.",
+	"version": "2026.10.0",
 	"author": "That Data Person Limited (www.thatdataperson.com)",
+	"icons": {
+		"128": "images/ThatDataPurple.icon.png"
+	},
 	"theme": {
 		"colors": {
 			"frame": [
-				64,
-				16,
-				162
+				13,
+				6,
+				41
 			],
 			"frame_inactive": [
-				67,
-				32,
-				204
+				18,
+				10,
+				51
 			],
 			"frame_incognito": [
-				32,
-				32,
-				32
+				7,
+				3,
+				26
 			],
 			"frame_incognito_inactive": [
-				60,
-				64,
-				67
+				7,
+				3,
+				26
 			],
 			"background_tab": [
-				64,
-				16,
-				162
+				13,
+				6,
+				41
 			],
 			"background_tab_inactive": [
-				67,
-				32,
-				204
+				18,
+				10,
+				51
 			],
 			"background_tab_incognito": [
-				64,
-				16,
-				162
+				7,
+				3,
+				26
 			],
 			"background_tab_incognito_inactive": [
-				67,
-				32,
-				204
-			],
-			"bookmark_text": [
-				255,
-				255,
-				255
+				7,
+				3,
+				26
 			],
 			"tab_background_text": [
-				204,
-				204,
-				204
+				179,
+				171,
+				214
 			],
 			"tab_background_text_inactive": [
-				204,
-				204,
-				204
+				179,
+				171,
+				214
 			],
 			"tab_background_text_incognito": [
-				189,
-				193,
-				198
+				179,
+				171,
+				214
 			],
 			"tab_background_text_incognito_inactive": [
-				167,
+				179,
 				171,
-				174
-			],
-			"tab_text": [
-				255,
-				255,
-				255
+				214
 			],
 			"toolbar": [
 				67,
 				32,
 				204
 			],
+			"tab_text": [
+				255,
+				255,
+				255
+			],
+			"bookmark_text": [
+				255,
+				255,
+				255
+			],
+			"toolbar_text": [
+				255,
+				255,
+				255
+			],
 			"toolbar_button_icon": [
 				255,
 				255,
 				255
 			],
-			"omnibox_text": [
-				255,
-				255,
-				255
-			],
 			"omnibox_background": [
-				204,
-				32,
-				83
+				18,
+				10,
+				51
+			],
+			"omnibox_text": [
+				236,
+				232,
+				250
+			],
+			"ntp_background": [
+				18,
+				10,
+				51
+			],
+			"ntp_text": [
+				236,
+				232,
+				250
+			],
+			"ntp_link": [
+				185,
+				168,
+				255
 			]
 		}
 	}
