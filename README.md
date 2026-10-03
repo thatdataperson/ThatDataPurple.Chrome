@@ -1,5 +1,5 @@
 # ThatDataPurple.Chrome
-A purple theme for Chrome, Edge and Brave made with love by That Data Person Limited.
+A purple theme for Chrome, Edge and Brave in the That Data Person brand colours, by That Data Person Limited.
 
 ## Screenshot
 ![Screenshot of ThatDataPurple theme applied to Chrome](https://github.com/thatdataperson/ThatDataPurple.Chrome/blob/main/images/ThatDataPurple.preview.png?raw=true)
